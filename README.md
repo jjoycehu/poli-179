@@ -16,3 +16,15 @@ New media sites that are more right-leaning would use more negative language whe
 `clustering_analysis.ipynb`: a notebook where we use PCA to cluster news headlines for more insight
 
 everything else: data
+
+
+### Moving Forward: 
+
+* we need to find more analysis techniques: 
+   - thinking of using TFIDF to find words that are representative of each news sites' language surrounding the topic
+   - regression using political bias score and sentiment of news headline to see if there is a relationship 
+   - adding politcial bias score to the clusters we have to see if there is a relationship 
+* any other suggestions or for how we can improve on these ideas?
+* issues we have: 
+   - finding a good way to represent political bias
+   
