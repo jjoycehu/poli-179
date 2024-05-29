@@ -25,6 +25,11 @@ everything else: data
    - regression using political bias score and sentiment of news headline to see if there is a relationship 
    - adding politcial bias score to the clusters we have to see if there is a relationship 
 * any other suggestions or for how we can improve on these ideas?
+
+* to do: 
+    - create visualizations for these analysis
+    - create word cloud of the different clusters
+    
 * issues we have: 
    - finding a good way to represent political bias
    
