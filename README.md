@@ -10,10 +10,10 @@ New media sites that are more right-leaning would use more negative language whe
 
 ### In this repo: 
 
-`google news data collection.ipynb`: a notebook about our data collection techniques
-`news and keywords.xlsx`: keywords and news sites we used for data collection
+`google news data collection.ipynb`: a notebook about our data collection techniques  
+`news and keywords.xlsx`: keywords and news sites we used for data collection  
 
-`clustering_analysis.ipynb`: a notebook where we use PCA to cluster news headlines for more insight
+`clustering_analysis.ipynb`: a notebook where we use PCA to cluster news headlines for more insight  
 
 everything else: data
 
