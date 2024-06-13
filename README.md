@@ -1,6 +1,6 @@
 #  Language & Sentiment of Media Reported Pro-Palestine Protests
 
-<img src="https://github.com/jjoycehu/poli-179/blob/fb8c1a2052f2cc08c84291aa93014c61b7793155/figures/sites_sentiment.png" width="50%"/>
+<img src="https://github.com/jjoycehu/poli-179/blob/640d2aaba13e5385b864f9e59fdb117e12c4300c/figures/news_sentiment.png" />
 
 ## Group 4
 - Andrew Acosta
