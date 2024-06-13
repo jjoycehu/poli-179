@@ -1,5 +1,6 @@
 #  Language & Sentiment of Media Reported Pro-Palestine Protests
 
+<img src="https://github.com/jjoycehu/poli-179/blob/fb8c1a2052f2cc08c84291aa93014c61b7793155/figures/sites_sentiment.png" width="50%"/>
 
 ## Group 4
 - Andrew Acosta
@@ -27,19 +28,19 @@ New media sites that are more right-leaning would use more negative language whe
 
 ### `notebooks`: 
 
-`google news data collection.ipynb`: data collection script
-`analysis.ipynb`: notebook to replicate analysis
+`google news data collection.ipynb`: data collection script  
+`analysis.ipynb`: notebook to replicate analysis  
 
 ### `data`: 
-`news and keywords.xlsx`: keywords and news sites used for data collection
-`political_leaning.csv`: media bias scores
+`news and keywords.xlsx`: keywords and news sites used for data collection  
+`political_leaning.csv`: media bias scores  
 
 
 ## Results
 
 <img src="https://github.com/jjoycehu/poli-179/blob/cc6246f38c44124cd12b87e23384f20629613748/figures/ols_results.png" width="50%"/>
 
-
+At the 0.01 significance level, there is a sigificant negative relationship between a news site's media bias score and the language it uses in articles about Pro-Palestine student protests. 
 
 ## Discussion 
    
