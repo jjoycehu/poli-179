@@ -43,4 +43,12 @@ New media sites that are more right-leaning would use more negative language whe
 At the 0.01 significance level, there is a sigificant negative relationship between a news site's media bias score and the language it uses in articles about Pro-Palestine student protests. 
 
 ## Discussion 
- After looking throuhg the results, we see that they support our hypothesis however a weaker statstical significance than anticipated. We believe this may be due to two reasons: a lack of right leaning sources that reported on the protests or did not pick up and that left leaning sources using more negative language than anticpated. We believe this may be due media outlet's different strategies in pushing their own bias.
+Although the results support our initial hypothesis, the relationship found was weaker than expected. We believe this may be due to two reasons: a lack of right leaning sources that reported on the protests or did not pick up and that left leaning sources using more negative language than anticpated. We believe this may be due media outlet's different strategies in pushing their own bias.
+ 
+## References 
+**Brown, Danielle K. and Summer Harlow.** 2019. “Protests, Media Coverage, and a Hierarchy of Social Struggle.” The International Journal of Press/Politics 24(4) 508–530. [Link]
+
+**Fu, King-Wa. 2023.** “Propagandization of Relative Gratification: How Chinese State Media Portray the International Pandemic.” Political Communication 40(6). [Link]
+
+**Giersch, Jason.** 2019. “Punishing Campus Protesters Based on Ideology.” Research & Politics, 6(4). [Link]
+
