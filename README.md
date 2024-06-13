@@ -37,6 +37,8 @@ New media sites that are more right-leaning would use more negative language whe
 
 ## Results
 
+<img src="https://github.com/jjoycehu/poli-179/blob/cc6246f38c44124cd12b87e23384f20629613748/figures/ols_results.png" width="50%"/>
+
 
 
 ## Discussion 
